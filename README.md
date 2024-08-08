@@ -9,7 +9,7 @@ Il est conseillé de travailler avec un environnement virtuel, de manière à is
 **Créer un environnement virtuel :**
 
 Dans une console :
-```
+```bash
 # Se placer à l'endroit où l'on souhaite enregistrer l'environnement virtuel
 cd chemin\vers\un\emplacement\choisi
 
