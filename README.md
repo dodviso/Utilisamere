@@ -20,7 +20,7 @@ python3 -m venv venv_utilisamere
 .\venv_utilisamere\Scripts\activate
 
 # Se rendre dans le répertoire utilisamere
-cd chemin/vers/utilisamere
+cd chemin\vers\utilisamere
 
 # Installer des dépendances
 pip install -r requirements.txt
